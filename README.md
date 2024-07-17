@@ -56,6 +56,3 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 KushagraaWadhwa/KushagraaWadhwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/23513980/c597fdaa-bf8d-49d5-bee4-18b719df1b9c/Resume.pdf
