@@ -17,6 +17,7 @@
 - Computer vision projects 
 
 ## 📫 How to reach me ...
+- Portfolio: https://kushagraawadhwa.github.io/Portfolio/
 - 📧 Email: wadhwakushagra263@gmail.com
 - 📱 Phone: +91-7428739746
 - 💼 LinkedIn: [Kushagra Wadhwa](https://www.linkedin.com/in/kushagra-wadhwa)
