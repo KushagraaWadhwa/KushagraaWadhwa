@@ -147,34 +147,6 @@ Guardrails and structured output enforcement did more for trust than any prompt-
 
 ---
 
-## `CHANGELOG.md`
-
-```diff
-## [2026.09] - current
-+ M.Tech @ IIIT Bangalore: convex optimization, advanced algorithms, DNNs from first principles
-+ Digging into the math under the systems I'd already shipped on intuition
-
-## [2026.07]
-+ Wrapped up a year at Shorthills AI
-+ Shipped: multimodal RAG ingestion, earnings-call intelligence, vector search benchmarking
-
-## [2025.07]
-+ Joined Shorthills AI as AI/ML Software Engineer
-
-## [2025.05]
-+ B.Tech, AI & ML — GGSIPU
-```
-
----
-
-## GitHub Stats
-
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=KushagraaWadhwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraaWadhwa&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 ## Let's Connect
 
