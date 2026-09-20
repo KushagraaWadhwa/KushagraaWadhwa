@@ -88,7 +88,7 @@ Content-Type: application/json
 
 ## Featured Projects
 
-### AI-Powered Patient Monitoring System `https://kheeltechnologies.com/`
+### AI-Powered Patient Monitoring System `Live`
 QLoRA-fine-tuned Qwen2.5-VL-3B (4-bit NF4, PEFT) reading real handwritten Indian prescriptions into structured JSON — medicines, dosage, frequency, instructions — wired into an async FastAPI backend serving live vitals across concurrent HD monitor streams. Actually deployed in a clinical environment.
 
 <p>
